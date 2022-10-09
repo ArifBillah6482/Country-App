@@ -7,8 +7,8 @@ body {
 .redText {
   color: rgb(221, 73, 73);
 }
-@media screen and (max-width: 460px) {
+@media screen and (max-width: 600px) {
   body {
-    width: 455px;
+    width: 600px;
   }
 }
