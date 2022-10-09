@@ -48,9 +48,9 @@ const CountriesProject = () => {
   return (
     <div className="countryMainDiv">
       <div>
-        <h1 className="headerText">
+         <p className="headerText">
           Country App <br />
-        </h1>
+        </p>
         <div
           style={{
             textAlign: "center",
