@@ -46,7 +46,7 @@ const CountriesProject = () => {
   }, []);
 
   return (
-    <div>
+    <div className="countryMainDiv">
       <div>
         <h1 className="headerText">
           Country App <br />
