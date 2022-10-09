@@ -3,7 +3,6 @@ body {
   background-color: whitesmoke;
   display: flex;
   justify-content: center;
-  flex-wrap: wrap;
 }
 .redText {
   color: rgb(221, 73, 73);
@@ -11,5 +10,10 @@ body {
 @media screen and (max-width: 600px) {
   body {
   width: max-content;
+     display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+      flex-direction: column;
+
   }
 }
