@@ -45,3 +45,8 @@
 .countryImg {
   text-align: center;
 }
+@media screen and (max-width: 350px) {
+  .countryMainDiv{
+    width: 100%;
+  }
+}
