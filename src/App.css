@@ -9,6 +9,6 @@ body {
 }
 @media screen and (max-width: 460px) {
   body {
-    width: max-content;
+    width: 455px;
   }
 }
