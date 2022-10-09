@@ -3,6 +3,7 @@ body {
   background-color: whitesmoke;
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
 }
 .redText {
   color: rgb(221, 73, 73);
