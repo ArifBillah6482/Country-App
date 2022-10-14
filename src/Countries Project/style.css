@@ -10,8 +10,8 @@
   flex-direction: row;
   padding-top: 15px;
   border-radius: 7px;
-  border-top: 5px solid purple;
-  border-bottom: 5px solid purple;
+  border-top: 7px solid purple;
+  border-bottom: 7px solid purple;
 }
 .countryDiv:hover {
   box-shadow: 0 0 15px purple;
