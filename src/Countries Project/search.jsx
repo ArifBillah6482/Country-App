@@ -16,7 +16,7 @@ export default function SearchCountry(props) {
         <span
           style={{
             color: "purple",
-            fontSize: "19px",
+            fontSize: "22px",
           }}
         >
           Search Country:{" "}
@@ -28,7 +28,7 @@ export default function SearchCountry(props) {
           value={searchText}
           onChange={onChangeText}
           style={{
-            padding: "8px",
+            padding: "12px 8px",
             fontSize: "17px",
             marginTop: "15px",
             outline: "none",
